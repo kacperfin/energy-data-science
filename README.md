@@ -20,4 +20,4 @@ As part of the [Report 2](https://github.com/kacperfin/energy-data-science/blob/
 - Created ARMA-family models to forecast energy demand
 - Compared the two ARMA-family models with a naive 7 day lag prediction
 
-Jupyter Notebook files are available under the name 'analysis.ipynb' in corresponding directories.
+Jupyter Notebook files are available under the name `analysis.ipynb` in corresponding directories.
