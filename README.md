@@ -1,7 +1,7 @@
 # energy-data-science
 These reports were part of the Energy Data Science course at TalTech.
 
-In the [Report 1](https://github.com/kacperfin/energy-data-science/blob/main/Report%201/Energy%20Data%20Science%20-%20Report%201.pdf), I:
+As part of the [Report 1](https://github.com/kacperfin/energy-data-science/blob/main/Report%201/Energy%20Data%20Science%20-%20Report%201.pdf), I:
 - Described the energy production data
 - Cleaned the data
 - Explored the data
@@ -9,7 +9,7 @@ In the [Report 1](https://github.com/kacperfin/energy-data-science/blob/main/Rep
 - Explored seasonality patterns
 - Performed seasonal decomposition
 
-In the [Report 2](https://github.com/kacperfin/energy-data-science/blob/main/Report%202/Energy%20Data%20Science%20-%20Report%202.pdf), I:
+As part of the [Report 2](https://github.com/kacperfin/energy-data-science/blob/main/Report%202/Energy%20Data%20Science%20-%20Report%202.pdf), I:
 - Described the energy price, energy demand and weather data
 - Cleaned the data
 - Explored the data
@@ -19,3 +19,5 @@ In the [Report 2](https://github.com/kacperfin/energy-data-science/blob/main/Rep
 - Ranked features by relevance
 - Created ARMA-family models to forecast energy demand
 - Compared the two ARMA-family models with a naive 7 day lag prediction
+
+Jupyter Notebook files are available under the name 'analysis.ipynb' in corresponding directories.
